@@ -7,7 +7,7 @@
 
 <li>In folder Problems are located files with solutions of tasks in theory modules. </li>
 
-<li>In folder Coffee Machine/task are located project tasks files.</li>
+<li>In folder Coffee Machine/task/machine are located project tasks files.</li>
 </ul>
 
 ---
